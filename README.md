@@ -88,8 +88,7 @@ The figure below overlays anomalies detected by both approaches on a single engi
 - Isolation Forest anomalies (earlier, subtler deviations)
 - Overlapping detections (“Both”)
 
-> Add the exported plot image to `figures/final_figure.png` and embed it here:
->
+
 > ![Final Figure](figures/final_figure.png)
 
 ---
