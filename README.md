@@ -100,9 +100,4 @@ The figure below overlays anomalies detected by both approaches on a single engi
 - Engine-level evaluation is essential for time-series unit data to avoid leakage and measure real generalization.
 - For safety-oriented scenarios, a tuned Isolation Forest is a strong baseline; for operational simplicity, rule-based methods may be preferred.
 
----
-
-## How to Run (Optional)
-- Install dependencies: `pip install -r requirements.txt`
-- Run the notebook(s) under `notebooks/` to reproduce the analysis and plots.
 
